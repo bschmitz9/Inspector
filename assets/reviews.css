@@ -1,0 +1,97 @@
+.reviews {
+	margin-bottom: 10px;
+	color: gray;
+	-webkit-margin-before: 1em;
+   	-webkit-margin-after: 1em;
+}
+
+.user-feedback{
+	border-bottom: 1px solid gray;
+}
+
+#review_section{
+	border-bottom: 1px solid gray;
+}
+
+/*all headers*/
+.header{
+	background-color: #e50000;
+}
+
+/*book_details.php*/
+.add-review{
+	border-left: 1px solid gray;
+}
+
+.review_section {
+	padding-bottom:5px;
+	border-top: 1px solid gray;
+}
+
+.star_number{
+	height:41px;
+	width:192px;
+	margin-bottom: 10px;
+}
+
+#author{
+	color: #e50000;
+}
+
+#title{
+	color: #e50000;
+}
+
+/*user_details*/
+.user-info{
+	background-color: #F0F0F0;
+	border: 1px solid black;
+}
+
+.book-title{
+	font-size: 18px;
+}
+
+.latest-reviews{
+	margin-top: 10px;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.posted-on{
+	margin-top: 25px;
+}
+
+.insight{
+	border-bottom: 1px solid gray;
+}
+
+/* book details */
+.other_reviews{
+	border: 2px solid black;
+	overflow: scroll;
+	height: 277px;
+	background-color: #f6f6f6;
+}
+
+#stars{
+	color: red;
+}
+
+.pick_stars {
+	margin-top: 20px;
+	color: red;
+	background-color: red;
+}
+
+.submit{
+	margin-top:5px;
+	margin-left: 20px;
+}
+
+
+#new{
+	margin-top: 10px;
+}
+
+

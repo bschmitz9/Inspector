@@ -1,0 +1,44 @@
+Customers Section:
+
+    Products Search (9)
+        - Side Menu (4)
+        - Search (5)
+    
+    Product View (4)
+        - Info (3)
+        - Similar Items (1)
+    
+    Cart 
+        - Cart (2)
+        //- Stripe API (3)
+
+
+// Admin Section
+    
+    Login (1)
+        - Admin Session (1)
+    
+    Order Search (9)
+        - Order Load (2)
+        - Pagination (2)
+        - Statuses(2)
+        - Search (1)
+        - Limits (2)
+    
+    Order View (3)
+        - Info (1)
+        - Layout (1)
+        - Queries (1)
+
+    Products (6)
+        - Product Load (2)
+        - Edit/Delete/Add (2)
+        - Search (1)
+        - Pagination (1)
+
+    Add/Edit Product Pages (9)
+        - Insert Fields (2)
+        - Image Upload (2)
+        - Upload Options (3)
+        - Preview (1)
+        - Specific Changes to Add and Edit (1)

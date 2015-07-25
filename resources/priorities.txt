@@ -1,0 +1,14 @@
+* 1. Database
+
+* 2. Customers Section HTML
+    - Products Search
+    - Product View
+    - Cart
+
+3. Queries
+    - Products Search
+        * 1. Load
+        * 2. Search
+        3. Pagination
+    - Product View
+    - Cart

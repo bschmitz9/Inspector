@@ -5,14 +5,14 @@ $active_record = TRUE;
 
 if(ENVIRONMENT == 'production')
 {
-	$db['default']['hostname'] = 'ec2-52-11-152-217.us-west-2.compute.amazonaws.com';
+	$db['default']['hostname'] = '52.11.152.217';
 	$db['default']['username'] = 'root';
 	$db['default']['password'] = 'root';
 	$db['default']['database'] = 'feedback';
 }
 else
 {
-	$db['default']['hostname'] = 'localhost';
+	$db['default']['hostname'] = '52.11.152.217';
 	$db['default']['username'] = 'root';
 	$db['default']['password'] = 'root';
 	$db['default']['database'] = 'feedback';
